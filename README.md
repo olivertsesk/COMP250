@@ -31,12 +31,5 @@
   <tr><td>13</td><td>Review</td></tr>      
   </tbody>
   </table>
-
-      <div id="footer">
-      &copy; Martin Robillard, 2014 <a id="Validation"
-        href="http://validator.w3.org/check?uri=referer"><img
-        src="http://www.w3.org/Icons/valid-html401-blue" alt="Valid
-        HTML 4.01 Transitional" height="24" width="66"></a>
-      </div>
   </body>
 </html>
