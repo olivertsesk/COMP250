@@ -1,6 +1,6 @@
 <html>
 <head>
-
+<h1>COMP COMP 250 Introduction to Computer Science - Winter 2015</h1>
 <table id="Schedule">
     
   <thead>  
