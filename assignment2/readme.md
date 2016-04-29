@@ -48,7 +48,6 @@
 
 <h2>Grading Scheme</h2>
 <p>Your solution will be run through a suite of JUnit tests designed by the TAs. Your grade will be based 80% on correctness (absence of bugs during testing, respect of the requirements), and 20% on general quality and understandability of the code (good names, indentation and layout, comments to clarify anything otherwise obscure).</p>
-<h2>Contact Information</h2>
-<p>You can post clarification and background questions to the Assignment 2 discussion forum. The coordinator in charge of collecting all the submissions for this assignment is&nbsp;<a href="mailto:faizy.ahsan@mail.mcgill.ca" target="_blank">Faizy Ahsan</a>. He can be contacted for any questions regarding the submission process except about the submission deadline, which is fixed.</p>
+
 </body>
 </html>
