@@ -1,4 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
 </head>
@@ -51,9 +50,6 @@ SIM_RELHITS = 3/6 = 0.50
 <li>Bugs are normal and learning to solve them is part of this course. However, make sure to plan for them by allocating the necessary time. Do not expect that everything will work as it should right away.</li>
 <li>We have set up the submission site to allow resubmissions. You can and should submit early, as soon as you have something reasonable. You will be able to upload new versions of your work until the deadline. However, if you have something pretty good submitted on time, don't override it after the deadline as you will instantly lose 40%.</li>
 <li>If you are doing this assignment with a partner, we recommend trying to work on the solution together at the same time, using a technique called <a href="https://en.wikipedia.org/wiki/Pair_programming">pair programming</a>.</li>
-</ul>
-<h2>Academic Integrity Statement</h2>
-<p>Paste this statement in the header of your code. We will not grade your work without it. If you have any doubt about the validity of the content of your submission, contact an instructor or TA before submitting it.</p>
 
 <h2>Contact Information</h2>
 <p>You can post clarification and background questions to the Assignment 1 discussion forum. The coordinator in charge of collecting all the submissions for this assignment is <a href="mailto:oasad@cs.mcgill.ca">Omar Asad</a>. He can be contacted for any questions regarding the submission process except about the submission deadline, which is fixed. For anything having to do with groups, contact <a href="mailto:faiz.khan@mail.mcgill.ca">Faiz Khan</a>.</p>
